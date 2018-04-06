@@ -231,8 +231,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [0x](https://github.com/davidmarkclements/0x) - Flamegraph profiling.
 - [ctrace](https://github.com/automation-stack/ctrace) - Well-formatted and improved trace system calls and signals.
 - [leakage](https://github.com/andywer/leakage) - Write memory leak tests.
-- [Merror](https://github.com/mamsoudi/merror) - A REST-friendly Express Middleware for HTTP error handling
-
+- [Merror](https://github.com/mamsoudi/merror) - REST-friendly HTTP error responses for express
 
 ### Logging
 
